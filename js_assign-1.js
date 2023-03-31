@@ -35,7 +35,7 @@ if (age >= 18)
 }
 else
 {
-  console.log(`Welcome ${name}, you are not adult`)
+  console.log(`Welcome ${name}, you are not an adult`)
 }
 
 // Question 5
