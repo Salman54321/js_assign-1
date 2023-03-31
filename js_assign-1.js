@@ -31,11 +31,11 @@ let age = prompt('enter you age')
 /* if the age is greater than and equals to 18 */
 if (age >= 18)
 {
-  console.log('Welcome ${name}, you are an adult');
+  console.log(`Welcome ${name}, you are an adult`);
 }
 else
 {
-  console.log('Welcome ${name}, you are not adult')
+  console.log(`Welcome ${name}, you are not adult`)
 }
 
 // Question 5
